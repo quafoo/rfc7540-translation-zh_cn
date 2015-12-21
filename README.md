@@ -1,13 +1,13 @@
 # RFC 7540 Translation (in progress)
 
-[HTTP/2 Standards](https://tools.ietf.org/html/rfc7540), 欢迎参与翻译!
+[HTTP/2 Standards](https://httpwg.github.io/specs/rfc7540.html), 欢迎参与翻译!
 
 **新来的同学请先移步至issue**: https://github.com/abbshr/rfc7540-translation-zh_cn/issues/1
 
 + 请遵循"fork & pull request"协作模型, 不要直接commit到原始仓库.
 + 发起pull request之前请fetch/pull检查与upstream分支的差异获取最近更新.
 
-(更新时间2015-10-21)
+(更新时间2015-12-21)
 
 翻译进度:
 
